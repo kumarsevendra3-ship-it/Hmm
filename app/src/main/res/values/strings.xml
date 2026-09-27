@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Arushi</string>
+    <string name="assistant_title">Arushi AI</string>
+    <string name="assistant_subtitle">Your Witty Voice Companion</string>
+    <string name="status_idle">Tap mic to speak with Arushi</string>
+    <string name="status_connecting">Connecting to Gemini Live…</string>
+    <string name="status_listening">Listening to you…</string>
+    <string name="status_speaking">Arushi is speaking…</string>
+    <string name="status_error">Connection issue</string>
+    <string name="test_speaker">Test Speaker</string>
+    <string name="action_whatsapp">WhatsApp</string>
+    <string name="action_call">Call</string>
+    <string name="action_youtube">YouTube</string>
+    <string name="permission_mic_rationale">Arushi needs microphone permission for real-time voice conversations.</string>
+    <string name="permission_contacts_rationale">Contacts permission is needed to call contacts by name.</string>
+</resources>
